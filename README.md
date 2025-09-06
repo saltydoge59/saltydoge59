@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** and **Technology Professional** currently pursuing my **Bachelor of Science in Information Systems** with a specialization in **Business Analytics and Product Development** at **Singapore Management University (SMU)**.
+I'm a passionate **AI Engineer** currently pursuing my **Bachelor of Science in Information Systems** with a specialization in **Business Analytics and Product Development** at **Singapore Management University (SMU)**.
 
-<!-- 🎯 **Currently**: Founding Software Engineer at **SlideMonkey** | Building AI-powered automation solutions   -->
-🌱 **Learning**: Advanced multi-agentic architectures  
-💡 **Passionate about**: Transforming complex business problems into elegant AI-driven solutions  
+🌱 **Learning**: Advanced multi-agentic and RAG architectures
+💡 **Passionate about**: Solving meaningful real world issues with AI  
+🏓 **Hobbies:** I love table tennis - feel free to ask me out for a game 😃**
 
 
 ## 🛠️ Technologies & Tools
@@ -18,6 +18,7 @@ I'm a passionate **Software Engineer** and **Technology Professional** currently
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="45" alt="java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5" />
@@ -34,9 +35,10 @@ I'm a passionate **Software Engineer** and **Technology Professional** currently
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45" alt="kubernetes" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="45" alt="aws" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="aws"/>
+          
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="45" alt="supabase"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" />
 
 </div>
