@@ -8,7 +8,7 @@
 
 I'm a passionate **AI Engineer** currently pursuing my **Bachelor of Science in Information Systems** with a specialization in **Business Analytics and Product Development** at **Singapore Management University (SMU)**.
 
-🌱 **Learning**: Advanced multi-agentic and RAG architectures
+🌱 **Learning**: Advanced multi-agentic and RAG architectures  
 💡 **Passionate about**: Solving meaningful real world issues with AI  
 🏓 **Hobbies:** I love table tennis - feel free to ask me out for a game 😃
 
