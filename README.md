@@ -41,15 +41,6 @@ I'm a passionate **AI Engineer** currently pursuing my **Bachelor of Science in 
 
 </div>
 
-## 📊 For the visuals 🤣🤣🤣
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saltydoge59&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saltydoge59&layout=compact" alt="Top Langs" />
-
-</div>
-
 
 ## 📫 Let's Connect!
 
