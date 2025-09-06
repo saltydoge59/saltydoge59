@@ -10,7 +10,7 @@ I'm a passionate **AI Engineer** currently pursuing my **Bachelor of Science in 
 
 🌱 **Learning**: Advanced multi-agentic and RAG architectures
 💡 **Passionate about**: Solving meaningful real world issues with AI  
-🏓 **Hobbies:** I love table tennis - feel free to ask me out for a game 😃**
+🏓 **Hobbies:** I love table tennis - feel free to ask me out for a game 😃
 
 
 ## 🛠️ Technologies & Tools
@@ -36,10 +36,8 @@ I'm a passionate **AI Engineer** currently pursuing my **Bachelor of Science in 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45" alt="kubernetes" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="aws"/>
-          
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="45" alt="supabase"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" />
+
 
 </div>
 
