@@ -10,7 +10,7 @@ I'm a passionate **AI Engineer** currently pursuing my **Bachelor of Science in 
 
 🌱 **Learning**: Advanced multi-agentic and RAG architectures  
 💡 **Passionate about**: Solving meaningful real world issues with AI  
-🏓 **Hobbies:** I love table tennis - feel free to ask me out for a game 😃
+🏓 **Hobbies:** Table tennis - feel free to ask me out for a game 😃
 
 
 ## 🛠️ Technologies & Tools
