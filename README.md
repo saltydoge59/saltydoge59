@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **AI Engineer** currently pursuing my **Bachelor of Science in Information Systems** with a specialization in **Business Analytics and Product Development** at **Singapore Management University (SMU)**.
+I'm a passionate **AI Engineer** currently pursuing my **Bachelor of Science in Information Systems** with a specialization in **Product Development** at **Singapore Management University (SMU)**.
 
 🌱 **Learning**: Advanced multi-agentic and RAG architectures  
 💡 **Passionate about**: Solving meaningful real world issues with AI  
